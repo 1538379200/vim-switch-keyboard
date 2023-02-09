@@ -6,6 +6,7 @@
 - 安装python
 - 如果没有设置python环境，在vim中指定python路径
 - windows系统中装上英文语言支持，选择美国
+
 ![image](https://user-images.githubusercontent.com/42434762/217836339-a937bd8f-6b17-4c7b-a7b9-611e61752163.png)
 
 
