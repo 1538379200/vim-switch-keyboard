@@ -18,5 +18,5 @@ win32api.SendMessage(
 EOF
 endfunction
 
-autocmd InsertLeave * :call SwitchInput("EN")
-autocmd InsertEnter * :call SwitchInput("ZH")
+autocmd VimEnter,InsertLeave * :call SwitchInput("EN")
+autocmd InsertEnter,VimLeave * :call SwitchInput("ZH")
